@@ -1,3 +1,32 @@
----------------------------------------------
-Hi, I'm [insert name]. I am a [insert year] at North Carolina State University. I've been a part of HackPack for [insert time]. Welcome to my HackPack portfolio page. Here, I will showcase writeups for CTFs that I have completed, as well as weekly journals where I will dive into the topics we went over as a club. Thank you for visiting my page!
----------------------------------------------
+# Welcome to My HackPack Portfolio!
+
+Hey there! I'm [Your Name], a [Year] student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for [Time Period].
+
+## Portfolio Overview
+
+This GitHub repository serves as my portfolio, showcasing my journey through the exciting world of cybersecurity. Here, you'll find:
+
+- **CTF Writeups:** Detailed walkthroughs of Capture The Flag challenges I've successfully completed.
+- **Weekly Journals:** Dive into my weekly journals where I explore various topics covered by our HackPack club.
+
+## Table of Contents
+
+- [CTF Writeups](#c)
+- [Weekly Journals](#weekly-journals)
+
+## CTF Writeups
+
+1. [IdekCTF](ctf-writeups/challenge-1.md)
+2. ...
+
+## Weekly Journals
+
+1. [January 2023](Spring_2023/Weekly_Journal/January) - General CTF Review
+2. [February 2023](Spring_2023/Weekly_Journal/February) - Web Exploitation and Binary Exploitation/Rev
+3. [March 2023](Spring_2023/Weekly_Journal/March) - Binary Exploitation/Rev cont. and Digital Forensics
+4. [April 2023](Spring_2023/Weekly_Journal/April) - Network Security/Cryptography
+
+
+## Thank You for Visiting!
+
+Feel free to explore my writeups and journals. Happy hacking!
