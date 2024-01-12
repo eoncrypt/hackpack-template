@@ -22,9 +22,9 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 ## Weekly Journals
 
 1. [January 2023](Weekly%20Journal/Spring%202023/January) - General CTF Review
-2. [February 2023](Weekly%20Journal/Spring%202023/February) - Web Exploitation and Binary Exploitation/Rev
-3. [March 2023](Weekly%20Journal/Spring%202023/March) - Binary Exploitation/Rev cont.
-4. [April 2023](Weekly%20Journal/Spring%202023/April) - Network Security/Cryptography
+2. [February 2023](Weekly%20Journal/Spring%202023/February) - Web Exploitation 
+3. [March 2023](Weekly%20Journal/Spring%202023/March) - Binary Exploitation/Rev cont. and Network Security/Cryptography
+4. [April 2023](Weekly%20Journal/Spring%202023/April) - Network Security/Cryptography cont.
 
 
 ## Thank You for Visiting!
